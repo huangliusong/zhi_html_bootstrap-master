@@ -1,0 +1,169 @@
+* {
+    padding: 0;
+    margin: 0px;
+}
+
+.navbar-default {
+    background-color: #0766c5;
+    border-color: #0766c5;
+}
+
+.navbar-default .navbar-brand {
+    color: #cfe8ee;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #ffffff; 
+}
+
+.navbar-default .navbar-text {
+    color: #cfe8ee;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #cfe8ee;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > .dropdown-menu {
+    background-color: #0766c5;
+}
+
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+    color: #cfe8ee;
+}
+
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+    color: #ffffff;
+    background-color: #0766c5;
+}
+
+.navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
+    background-color: #0766c5;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ffffff;
+    background-color: #0766c5;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color: #0766c5;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background-color: #0766c5;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #0766c5;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #0766c5;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #cfe8ee;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #cfe8ee;
+}
+
+.navbar-default .navbar-link {
+    color: #cfe8ee;
+}
+
+.navbar-default .navbar-link:hover {
+    color: #ffffff;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #cfe8ee;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #ffffff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #ffffff;
+        background-color: #0766c5;
+    }
+}
+
+
+/* #####################以上为导航条的样式 */
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.img {
+    width: 38px;
+    height: 38px;
+}
+
+.img1 {
+    width: 200px;
+    height: 112px;
+}
+
+.img2 {
+    width: 25px;
+    height: 25px;
+}
+
+.titles {
+    color: #259;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.fonts {
+    font-size: 13px;
+}
+
+.fonts1 {
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+.fonts2 {
+    border: 0;
+    width: 270px;
+}
+
+.fonts3 {
+    margin-left: 10px;
+}
+
+.fonts4 {
+    margin-top: 20px;
+    width: 270px;
+}
+
+.fonts5 {
+    border: 0;
+    width: 270px;
+}
